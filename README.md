@@ -19,3 +19,9 @@ This is not only a chance for you to practice the core skills of HTML and CSS, b
 Although you will each have an individual repository in which to make the website, there is nothing stopping you pair programming with your partner on the project. Organise your time so that you can spend an equal amount of time on each project. For example, if you spend three hours coding together on Sunday, you would spend 1.5 hours pair programming on one site, before moving over to the other site.
 
 This project will span the first two weeks of the bootcamp, and you will be given time in live evening sessions to work on it as well.
+
+**HTML** (Hyper Text Markup Language):   is the standard markup langauge for creating web pages, it consists of a series of elements that tell the browser how to display the content such as paragraphs and links etc
+
+**CSS** (Cascading Style Sheets):  basically describes how HTML elements are shown on screen, it is stored in a seperate file that is linked with the HTMl file, it used to design the HTML with colour, font size, font type etc.
+
+**Markdown**:                            is a markup language that   is used for formatting text using a plain-text editor, it is commonly used in blogging, instant messaging and read me files
