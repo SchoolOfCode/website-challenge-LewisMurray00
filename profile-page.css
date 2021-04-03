@@ -1,13 +1,12 @@
 .picture{
     padding: 80px;
     text-align: center;
-    background: grey;
+    background: rgb(73, 71, 71);
     color: white
 }
 .picture h1 {
-    font-size: 40px;
+    font-size: 50px;
 }
-
 
 
 * {
@@ -22,6 +21,7 @@
     flex: 30%;
     background-color: #f1f1f1;
     padding: 20px;
+    border: 2px solid black;
 }
 
 .main {
