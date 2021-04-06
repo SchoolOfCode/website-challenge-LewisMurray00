@@ -15,6 +15,7 @@
 .row {
     display: flex;
     flex-wrap: wrap;
+    flex-direction: row;
 }
 
 .side{
@@ -22,17 +23,22 @@
     background-color: #f1f1f1;
     padding: 20px;
     border: 2px solid black;
+    font-size: larger;
 }
 
 .main {
     flex: 70%;
-    background-color: white;
+    background-color: #f1f1f1;
     padding: 20px;
     border: 2px solid black;
-    font-size: large;
+    font-size: larger;
 }
 
-
+@media (max-width: 800px) {
+    .side, .main {
+        flex: 100%;
+    }
+}
 
 /* .profile{
     border-radius: 25px;
