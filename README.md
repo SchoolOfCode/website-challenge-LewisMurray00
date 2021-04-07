@@ -25,3 +25,9 @@ This project will span the first two weeks of the bootcamp, and you will be give
 **CSS** (Cascading Style Sheets):  basically describes how HTML elements are shown on screen, it is stored in a seperate file that is linked with the HTMl file, it used to design the HTML with colour, font size, font type etc.
 
 **Markdown**:                            is a markup language that   is used for formatting text using a plain-text editor, it is commonly used in blogging, instant messaging and read me files
+
+**Website Challenge Review**
+
+I feel that to begin with i was a bit lost on where to begin, so at first i had a research on different profile page templates and ideas came to mind from there.
+Following this i then called my partner Catherine, as the page was on her and so i thought the best place to start would be to call her and discuss what we would typically expect to see on a profile page and what she would like to see on the page.
+This led to the creation of a profile-page question repository that we then shared between us on github, on that sheet was a list of questions we would like to see on our webpage and so we took turns answering these questions and pushing them back up to each other.
