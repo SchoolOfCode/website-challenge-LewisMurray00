@@ -31,3 +31,7 @@ This project will span the first two weeks of the bootcamp, and you will be give
 I feel that to begin with i was a bit lost on where to begin, so at first i had a research on different profile page templates and ideas came to mind from there.
 Following this i then called my partner Catherine, as the page was on her and so i thought the best place to start would be to call her and discuss what we would typically expect to see on a profile page and what she would like to see on the page.
 This led to the creation of a profile-page question repository that we then shared between us on github, on that sheet was a list of questions we would like to see on our webpage and so we took turns answering these questions and pushing them back up to each other.
+Once we filled this in and got the answers we then had to think about what we wanted the layout of each others page to be etc, and from here we began to write our code.
+Now when it came to writing my code i had a research into webpage layouts to decide a basic starting point and from here i was able to design the basic page for my profile page.
+Once id done a bit i decided to call my partner and see what she thought of the code i had done and the overall layout, where she suggested possible improvements and font etc
+This went back and forth until we both reached a stage where we were happy with it.

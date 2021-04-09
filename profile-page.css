@@ -1,11 +1,11 @@
 .picture{
     padding: 80px;
     text-align: center;
-    background: rgb(73, 71, 71);
+    background: rgb(109, 163, 233);
     color: white
 }
 .picture h1 {
-    font-size: 50px;
+    font-size: 65px;
 }
 
 
@@ -21,7 +21,7 @@
 .side{
     flex: 30%;
     background-color: #f1f1f1;
-    padding: 20px;
+    padding: 1em;
     border: 2px solid black;
     font-size: larger;
 }
@@ -29,7 +29,7 @@
 .main {
     flex: 70%;
     background-color: #f1f1f1;
-    padding: 20px;
+    padding: 1em;
     border: 2px solid black;
     font-size: larger;
 }
