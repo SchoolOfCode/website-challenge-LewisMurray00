@@ -1,0 +1,56 @@
+
+.picture{
+    background-image: url("img_3063.jpg");
+    padding: 80px;
+    text-align: center;
+    color:red;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+
+}
+.picture h1 {
+    font-size: 90px;
+    font-family: sans-serif;
+}
+
+
+* {
+    box-sizing: border-box;
+}
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.side{
+    flex: 30%;
+    background-color: white;
+    padding: 1em;
+    font-size: larger;
+    font-family: sans-serif;
+    
+}
+
+.main {
+    flex: 70%;
+    background-color: #cfc8c8;
+    padding: 1em;
+    font-size: larger;
+    font-family: sans-serif;
+}
+
+@media (max-width: 800px) {
+    .side, .main {
+        flex: 100%;
+    }
+}
+
+/* .profile{
+    border-radius: 25px;
+    border: 2px solid black;
+    margin: 0 auto;
+    width: 1050px;
+    float: right;
+    font-size: 1.25em;
+  
+}*/
